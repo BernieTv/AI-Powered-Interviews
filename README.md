@@ -40,7 +40,7 @@ Whether you're a developer exploring AI integrations or a job seeker brushing up
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - ⚡ **Next.js** — Fullstack React Framework
-- 🔥 **Firebase** — Auth, Firestore & Hosting
+- 🔥 **Firebase** — Auth & Firestore
 - 💨 **Tailwind CSS** — Utility-first styling
 - 🧠 **Vapi AI** — Voice-driven AI agents
 - 🧹 **shadcn/ui** — Headless UI Components
