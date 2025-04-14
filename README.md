@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="https://raw.githubusercontent.com/adrianhajdin/ai_mock_interviews/refs/heads/main/public/robot.png" alt="Project Banner" width="400" />
+  <img src="https://raw.githubusercontent.com/BernieTv/AI-Powered-Interviews/refs/heads/main/public/robot-transparent.png" alt="Project Banner" width="400" />
   <br /><br />
 
   <div>
